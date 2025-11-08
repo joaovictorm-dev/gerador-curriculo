@@ -67,5 +67,4 @@ Curso: Análise e Desenvolvimento de Sistemas
 ## 🏫 Disciplina
 
 **Fundamentos de Programação para Internet**  
-Professor(a): (inserir nome, se desejar)  
 Ano: 2025
